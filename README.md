@@ -5,7 +5,7 @@ This is an R project which includes the analysis steps for Chapter 4 of my PhD t
 If you would like to use these, set up an R project with the following folder structure:
 
 - data
-- figures (with two subfolders named: exploratory_plots, models)
+- figures
 - results
 - scripts
 
